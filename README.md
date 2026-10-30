@@ -101,4 +101,12 @@ Java · Microservices · Database-per-Service
 
 ---
 
+---
+
+### 📈 GitHub Activity
+
+[![Habib's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=habibmevlut&theme=github-compact&hide_border=true)](https://github.com/habibmevlut)
+
+---
+
 ⭐ Thanks for visiting my profile!
