@@ -12,30 +12,24 @@ I enjoy designing frontend architectures, building reusable component systems an
 
 ---
 
-### 🚀 Technical Expertise
 
-**Frontend Development**
-- Angular (6–18), TypeScript, JavaScript
-- React, Vue.js, Nuxt 3
-- Lit, Web Components
-- Tailwind CSS, Bootstrap, Material UI
+### 🛠️ Tech Stack
 
-**Backend Development**
-- Java, Spring Boot
-- ColdFusion
-- REST APIs
-- Prisma ORM
+**Frontend & UI Engineering**
 
-**Databases**
-- Microsoft SQL Server
-- PostgreSQL
+[![Frontend Skills](https://skillicons.dev/icons?i=angular,ts,js,react,vue,nuxtjs,html,css,tailwind,bootstrap,materialui&perline=11)](https://skillicons.dev)
 
-**Tools & Practices**
-- Git, Docker, Jest, NGXS
-- SonarQube
-- Microservices Architecture
-- Clean Code & Code Quality
-- Frontend Architecture & Design Systems
+**Backend & Databases**
+
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,prisma&perline=10)](https://skillicons.dev)
+
+**Tools & Technologies**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,jest,vscode,postman&perline=10)](https://skillicons.dev)
+
+**Architecture & Engineering**
+
+`Frontend Architecture` · `Design Systems` · `Microservices` · `Web Components` · `Clean Code` · `Code Quality`
 
 ---
 
