@@ -34,9 +34,17 @@ I'm a software engineer with 9+ years of professional experience building scalab
 
 [![Frontend Skills](https://skillicons.dev/icons?i=angular,ts,js,react,vue,nuxtjs,html,css,tailwind,bootstrap,materialui&perline=11)](https://skillicons.dev)
 
+
 **Backend & Databases**
 
-[![Backend Skills](https://skillicons.dev/icons?i=java,spring,postgres,mysql,prisma&perline=10)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=java,spring,postgres,prisma&perline=10)](https://skillicons.dev)
+
+`Microsoft SQL Server` · `ColdFusion` · `REST APIs`
+
+**UI Architecture**
+
+`Lit` · `Web Components` · `NGXS` · `Design Systems`
+
 
 **Tools & Technologies**
 
@@ -90,16 +98,6 @@ Java · Microservices · Database-per-Service
 **Bahçeşehir University**
 - MSc — Engineering Management (2016 – 2018)
 - BSc — Computer Engineering (2010 – 2015)
-
----
-
-### 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/habib-mevl%C3%BCt-085aab176/)
-- 📧 [Email](mailto:habibmevlud@gmail.com)
-- 💻 [GitHub](https://github.com/habibmevlut)
-
----
 
 ### 📈 GitHub Activity
 
