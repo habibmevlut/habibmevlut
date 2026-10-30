@@ -1,17 +1,32 @@
+
+<div align="center">
+
 # Hi, I'm Habib Mevlüt 👋
 
-### Senior Software Engineer | Frontend-focused Full Stack Developer
+### Senior Software Engineer
+**Frontend-focused Full Stack Developer**
 
-📍 Istanbul, Türkiye
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Angular+%26+TypeScript+Engineering;Frontend+Architecture+%26+Design+Systems;Java+%26+Spring+Boot;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
 
-Software engineer with 9+ years of experience building scalable, maintainable and user-friendly web applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habib-mevl%C3%BCt-085aab176/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habibmevlud@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habibmevlut)
 
-My primary expertise is frontend engineering, with a strong focus on Angular and TypeScript. I also have hands-on experience with React, Vue.js, Nuxt.js, Lit, Java and Spring Boot.
-
-I enjoy designing frontend architectures, building reusable component systems and improving software quality.
+</div>
 
 ---
 
+### 👨‍💻 About Me
+
+I'm a software engineer with 9+ years of professional experience building scalable and maintainable web applications.
+
+- 💻 Specialized in **Angular, TypeScript and Frontend Architecture**
+- 🧩 Experienced in **Design Systems, Lit and Web Components**
+- ⚙️ Full-stack experience with **Java, Spring Boot and Microservices**
+- 🌱 Currently exploring **AI Agents, LLMs and Distributed Systems**
+- 📍 Based in **Istanbul, Türkiye**
+
+---
 
 ### 🛠️ Tech Stack
 
