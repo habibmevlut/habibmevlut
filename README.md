@@ -3,7 +3,7 @@
 
 # Hi, I'm Habib Mevlüt 👋
 
-### Senior Software Engineer
+### Software Engineer
 **Frontend-focused Full Stack Developer**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Angular+%26+TypeScript+Engineering;Frontend+Architecture+%26+Design+Systems;Java+%26+Spring+Boot;Building+Scalable+Web+Applications)](https://git.io/typing-svg)
